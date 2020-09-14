@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 html,
 body {
   margin: 0;
@@ -9,15 +9,16 @@ body {
   background-color: #999999;
   color: #000000;
   padding: 20px;
-  font-family: 'Poppins', arial, serif;
+  font-family: 'Lato', Helvetica, sans-serif;
   font-weight: lighter;
 }
 h1 {
-  font-size: 40px;
+  font-size: 80px;
+  font-weight: lighter;
 }
 h2 {
   font-size: 32px;
-  font-weight: 800px;
+  font-weight: 400px;
 }
 a {
   font-size: 20px;
